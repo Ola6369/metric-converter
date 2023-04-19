@@ -1,13 +1,7 @@
-body{
-    margin: 0px;
-    padding: 0px;
-}
-.container{
-    margin-top: 200px;
+
+/* .container{
     background-color: rgb(205, 214, 214);
-    border-radius: 5px;
-   
-}
+} */
 #input{
     width: 180px;
     color: red;
